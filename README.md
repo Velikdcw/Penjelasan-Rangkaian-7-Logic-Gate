@@ -1,4 +1,4 @@
-# penjelasan-rangkain-7-logic-gate
+# penjelasan-rangkaian-7-Logic-Gate
 ## Link Tinkercad
 https://www.tinkercad.com/things/80MAp5CFO0z-rangkaian-gerbang-logika/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=buLiAYDOueHLUGVCqFt08tow7t58n0rc2qx8vVMUZbM
 # 1. Gerbang AND 
